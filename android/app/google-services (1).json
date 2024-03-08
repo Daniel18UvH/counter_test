@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857401325015",
+    "project_id": "appflutter-34335",
+    "storage_bucket": "appflutter-34335.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857401325015:android:fdd1279e6ff9e90f038792",
+        "android_client_info": {
+          "package_name": "com.example.countertesst"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmv_i2gVa59zS2hUXKiDUn0aG9t4ZIiPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
